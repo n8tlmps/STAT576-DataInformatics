@@ -3,8 +3,8 @@
 ## Homework 1
 #### 1. Data Preprocessing
 
-**Loading & Handling Data:** Load CSV files and manage datasets using tools like Python (pandas).
-**Feature Scaling:** Standardize features for model compatibility using tools like StandardScaler in Python.
+- **Loading & Handling Data:** Load CSV files and manage datasets using tools like Python (pandas).
+- **Feature Scaling:** Standardize features for model compatibility using tools like StandardScaler in Python.
 
 #### 2. Feature Selection Techniques
 
