@@ -12,8 +12,8 @@
 - **L1 Regularization (Lasso):** Use Lasso for automatic feature selection by shrinking coefficients to zero (Lasso in Python).
 
 ## Feature Extraction
-- **Linear Techniques:**
-- **Manifold Learning:**
+- **Linear Techniques:** Principal Component Analysis (PCA), Multidimensional Scaling (MDS)
+- **Manifold Learning:** Isomap, Locally Linear Embedding (LLE), Stochastic Neighbor Embedding, t-distributed Stochastic Neighbor Embedding (t-SNE)
 - **Advanced Techniques**
 
 ## Clustering Methods
