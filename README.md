@@ -19,7 +19,7 @@
 ## Clustering Methods
 
 ## Recommendation Systems
-- Association Rule
+- Association Rule (Apriori Algorithm)
 - User-based Collaborative Filtering
 - Item-based Collaborative Filtering
 - Latent Matrix Factorization
