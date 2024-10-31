@@ -15,6 +15,3 @@
 #### 3. Modeling & Problem Solving
 - **Random Forest & Linear Regression:** Understand Random Forest and linear regression techniques, including regularization for feature selection.
 - **Efficient Code:** Implement solutions that balance model performance and computational efficiency.
-
-#### 4. Documentation
-- **Code Readability & Reporting:** Write clear code and document results in Markdown or Jupyter notebooks for easy understanding and communication.
