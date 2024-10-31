@@ -20,8 +20,8 @@
 
 ## Recommendation Systems
 - Association Rule
-- User-based Collaborative filtering
-- Item-based collaborative filtering
-- Latent matrix factorization
+- User-based Collaborative Filtering
+- Item-based Collaborative Filtering
+- Latent Matrix Factorization
 
 ### Anomaly Detection
