@@ -17,6 +17,10 @@
 - **Advanced Techniques**
 
 ## Clustering Methods
+- Agglomerative Clustering
+- KMeans
+- MiniBatch KMeans
+- DBSCAN
 
 ## Recommendation Systems
 - Association Rule (Apriori Algorithm)
